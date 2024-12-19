@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu de Cadastro</title>
+    <link rel="stylesheet" href="style.css"> <!-- Você pode adicionar um arquivo CSS separado para o estilo do menu -->
+</head>
+<body>
+    <div class="container">
+        <h1>Menu de Cadastro</h1>
+        <nav>
+            <ul>
+                <li><a href="cadastro_turma.html">Cadastro da Turma</a></li>
+                <li><a href="entrada_caixa.html">Saídas de Caixa Financeiro</a></li>
+            </ul>
+        </nav>
+    </div>
+</body>
+</html>
